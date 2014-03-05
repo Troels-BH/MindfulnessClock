@@ -1,0 +1,45 @@
+/*
+ Localizable.strings
+ Mindfulness
+ 
+ Created by Troels Bech Hansen on 22/10/12.
+ Copyright (c) 2012 Troels Bech Hansen. All rights reserved.
+ */
+
+
+//MainViewController
+"Remind Me" = "Påmind mig" ;
+"about my sessions" = "" ;
+
+//TimeViewController
+"Start session in:" = "Start session efter:" ;
+"End session in:" = "Slut session efter:" ;
+"Session start and end sound:" = "Session start og slut lyd:" ;
+"sec" = "sek" ;
+"min" = "min" ;
+
+"Xylophone" = "Xylofon" ;
+"Triangle" = "Triangel" ;
+"Waves" = "Bølger" ;
+"Whistle" = "Fløjte" ;
+
+//Notifications ViewController
+"Add a reminder" = "Tilføj påmindelser";
+
+//AddNotificationViewController
+"Message" = "Besked" ;
+"Remember My Mnf session" = "Mindfulness påmindelse" ;
+"Repeat" = "Gentag" ;
+"Today" = "I dag" ;
+"Will repeat:" = "Vil gentages: " ;
+
+"Monday" = "Mandag" ;
+"Tuesday" = "Tirsdag" ;
+"Wednesday" = "Onsdag" ;
+"Thursday" = "Torsdag" ;
+"Friday" = "Fredag" ;
+"Saturday" = "Lørdag" ;
+"Sunday" = "Søndag" ;
+
+//InfoViewController
+"Info text" = "DK Info text" ;
